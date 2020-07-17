@@ -1,0 +1,26 @@
+<annotation>
+	<folder>angry</folder>
+	<filename>angry-black-and-white-grimace-man.jpg</filename>
+	<path>C:\Users\Rupeshika\Downloads\angry\angry-black-and-white-grimace-man.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>910</width>
+		<height>1365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>520</ymin>
+			<xmax>689</xmax>
+			<ymax>952</ymax>
+		</bndbox>
+	</object>
+</annotation>

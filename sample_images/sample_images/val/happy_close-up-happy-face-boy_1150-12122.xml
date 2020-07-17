@@ -1,0 +1,26 @@
+<annotation>
+	<folder>05368877-44cf-4501-b858-6c2f2877e751</folder>
+	<filename>close-up-happy-face-boy_1150-12122.jpg</filename>
+	<path>C:\Users\Rupeshika\Downloads\05368877-44cf-4501-b858-6c2f2877e751\close-up-happy-face-boy_1150-12122.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>169</ymin>
+			<xmax>403</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>05368877-44cf-4501-b858-6c2f2877e751</folder>
+	<filename>handsome-unshaven-young-darkskinned-male-260nw-640011838.jpg</filename>
+	<path>C:\Users\Rupeshika\Downloads\05368877-44cf-4501-b858-6c2f2877e751\handsome-unshaven-young-darkskinned-male-260nw-640011838.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>71</ymin>
+			<xmax>219</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+</annotation>

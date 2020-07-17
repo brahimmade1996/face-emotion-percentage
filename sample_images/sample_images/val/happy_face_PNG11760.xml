@@ -1,0 +1,26 @@
+<annotation>
+	<folder>05368877-44cf-4501-b858-6c2f2877e751</folder>
+	<filename>face_PNG11760.png</filename>
+	<path>C:\Users\Rupeshika\Downloads\05368877-44cf-4501-b858-6c2f2877e751\face_PNG11760.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1042</width>
+		<height>788</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>232</ymin>
+			<xmax>675</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+</annotation>

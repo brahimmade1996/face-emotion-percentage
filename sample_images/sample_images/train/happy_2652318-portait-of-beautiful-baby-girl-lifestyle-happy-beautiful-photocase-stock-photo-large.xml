@@ -1,0 +1,26 @@
+<annotation>
+	<folder>05368877-44cf-4501-b858-6c2f2877e751</folder>
+	<filename>2652318-portait-of-beautiful-baby-girl-lifestyle-happy-beautiful-photocase-stock-photo-large.jpeg</filename>
+	<path>C:\Users\Rupeshika\Downloads\05368877-44cf-4501-b858-6c2f2877e751\2652318-portait-of-beautiful-baby-girl-lifestyle-happy-beautiful-photocase-stock-photo-large.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>649</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>166</ymin>
+			<xmax>489</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

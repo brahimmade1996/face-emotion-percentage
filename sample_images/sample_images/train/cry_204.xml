@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sad</folder>
+	<filename>cry_204.jpg</filename>
+	<path>C:\Users\Rupeshika\Downloads\Sad\Sad\cry_204.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>48</width>
+		<height>48</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>5</ymin>
+			<xmax>43</xmax>
+			<ymax>36</ymax>
+		</bndbox>
+	</object>
+</annotation>

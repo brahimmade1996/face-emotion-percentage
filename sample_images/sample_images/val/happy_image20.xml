@@ -1,0 +1,26 @@
+<annotation>
+	<folder>05368877-44cf-4501-b858-6c2f2877e751</folder>
+	<filename>image20.jpeg</filename>
+	<path>C:\Users\Rupeshika\Downloads\05368877-44cf-4501-b858-6c2f2877e751\image20.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>53</ymin>
+			<xmax>170</xmax>
+			<ymax>107</ymax>
+		</bndbox>
+	</object>
+</annotation>

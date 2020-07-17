@@ -1,0 +1,26 @@
+<annotation>
+	<folder>angry</folder>
+	<filename>1409997457433_wps_12_Gerard_Butler_TELEVISION_.jpg</filename>
+	<path>C:\Users\Rupeshika\Downloads\angry\1409997457433_wps_12_Gerard_Butler_TELEVISION_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>537</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>115</ymin>
+			<xmax>428</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>angry</folder>
+	<filename>angry_face.jpg</filename>
+	<path>C:\Users\Rupeshika\Downloads\angry\angry_face.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>686</width>
+		<height>457</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>183</ymin>
+			<xmax>481</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>05368877-44cf-4501-b858-6c2f2877e751</folder>
+	<filename>happy-positive-smiling-blonde-woman-happiness-human-face-expressions-concept-happy-positive-stock-photograph_csp50502998.jpg</filename>
+	<path>C:\Users\Rupeshika\Downloads\05368877-44cf-4501-b858-6c2f2877e751\happy-positive-smiling-blonde-woman-happiness-human-face-expressions-concept-happy-positive-stock-photograph_csp50502998.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>270</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>38</ymin>
+			<xmax>144</xmax>
+			<ymax>115</ymax>
+		</bndbox>
+	</object>
+</annotation>
